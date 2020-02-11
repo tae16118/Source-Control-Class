@@ -1,4 +1,4 @@
-# SOURCE CONTROL HANDS ON WORKSHOP
+L HANDS ON WORKSHOP
 
 ## Table of content
 
@@ -235,9 +235,7 @@ It is also possible that remote and local repository were being edited on the sa
 #### Resolving merge conflict
 
 In terminal,
-![](https://user-images.githubusercontent.com/4034609/53858579-5d904800-400d-11e9-82b7-5eb16c1ca2fb.png)
-
-In text editor,
+![](https://user-images.githubusercontent.com/4034609/53858579-5d904800-400d-11e9-82b7-5eb16c1ca2fb.png)text editor,
 ![](https://user-images.githubusercontent.com/4034609/53858735-dd1e1700-400d-11e9-82cd-7d83b6d73205.png)
 
 Now you will need to help git makes decision on how the file suppose to be like.
